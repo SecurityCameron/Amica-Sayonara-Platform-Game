@@ -1,0 +1,17 @@
+Things to add to my indie game:
+
+Platforms in the sky to climb
+finish adding in the other classes - making the enemy on the screen also
+
+
+
+if level_4:
+     y = 250
+     if x > vel -width...
+     ground = 150 # the gaps on platforms     
+
+
+^^^ this is to help create platforms to allow falling
+
+if y == [the bottom of the screen]:
+     health = 0 # falls to death
